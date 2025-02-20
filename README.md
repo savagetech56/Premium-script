@@ -3,13 +3,11 @@
 
 <p align="center"><big><img src="https://img.shields.io/badge/🌎🌎🌎🌎🎮🎮🎮🎯🎯☺️🥲🧢🔗🌎🎮🎯🔥🔥🇨🇦🌍🌎-green?colorA=%2300ff15ff&colorB=%23ff0000ec&style=flat-square"></big>
 
-</i></b></h3>
-<h3 align="center">
-  <img src="https://i.imgur.com/dVaLQHq.jpeg" width="25"> 
+
   &nbsp; Welocum 😌 to Toxic tech &nbsp;
   <img src="https://raw.githubusercontent.com/phoenixxenon/XENONLO/main/xenon.jpg" width="25"> 
 </h3>
-<img align="center" alt="line" src="https://raw.githubusercontent.com/phoenixxenon/XENONLO/main/xenon.jpg">
+<img align="center" alt="line" src="https://raw.githubusercontent.com/savagetech56/toxicscript/main/xenon.jpg">
 
 </p>
 <img src="https://readme-typing-svg.herokuapp.com?color=%234d8c33ff&center=true&vCenter=true&lines=XENON-𝐓𝐄𝐂𝐇" />
