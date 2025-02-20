@@ -5,9 +5,9 @@
 
 
   &nbsp; Welocum 😌 to Toxic tech &nbsp;
-  <img src="https://raw.githubusercontent.com/phoenixxenon/XENONLO/main/xenon.jpg" width="25"> 
+  <img src="https://raw.githubusercontent.com/savagetech56/toxicscript/main/toxic.jpg" width="25"> 
 </h3>
-<img align="center" alt="line" src="https://raw.githubusercontent.com/savagetech56/toxicscript/main/xenon.jpg">
+<img align="center" alt="line" src="https://raw.githubusercontent.com/savagetech56/toxicscript/main/toxic.jpg">
 
 </p>
 <img src="https://readme-typing-svg.herokuapp.com?color=%234d8c33ff&center=true&vCenter=true&lines=XENON-𝐓𝐄𝐂𝐇" />
@@ -25,13 +25,13 @@
 
 ### INSTALL SCRIPT 
 ```
-apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/phoenixxenon/XENONLO/main/genz.sh && chmod +x genz.sh && ./genz.sh
+apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/savagetech56/toxicscript/main/toxic.sh && chmod +x toxic.sh && ./toxic.sh
 
 ```
 
 ### UPDATED SCRIPT
 ```
-wget https://raw.githubusercontent.com/phoenixxenon/XENONLO/main/update.sh && chmod +x update.sh && ./update.sh
+wget https://raw.githubusercontent.com/savagetech56/toxicscript/main/update.sh && chmod +x update.sh && ./update.sh
 
 ```
 ### TESTED ON OS 
