@@ -2,7 +2,7 @@
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # System Request : Debian 9+/Ubuntu 18.04+/20+
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# 🧑‍💻🏴‍☠️🥷🗽 xenonlo script 🧑‍💻🏴‍☠️🥷🗽
+# TOXIC TECH AUTO SCRIPT 
 
 Green="\e[92;1m"
 RED="\033[31m"
@@ -87,7 +87,7 @@ gem install lolcat
 apt install wondershaper -y
 clear
 # REPO    
-    REPO="https://raw.githubusercontent.com/phoenixxenon/XENONLO/main/"
+    REPO="https://raw.githubusercontent.com/savagetech56/toxicscript/main/"
 
 ####
 start=$(date +%s)
