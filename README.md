@@ -5,14 +5,13 @@
 
 
   &nbsp; Welocum 😌 to Toxic tech &nbsp;
-  <img src="https://raw.githubusercontent.com/savagetech56/toxicscript/main/toxic.jpg" width="25"> 
+  <img src="https://raw.githubusercontent.com/savagetech56/toxicscript/main/toxic.jpg" width="35"> 
 </h3>
 <img align="center" alt="line" src="https://raw.githubusercontent.com/savagetech56/toxicscript/main/toxic.jpg">
 
 </p>
-<img src="https://readme-typing-svg.herokuapp.com?color=%234d8c33ff&center=true&vCenter=true&lines=XENON-𝐓𝐄𝐂𝐇" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%234d8c33ff&center=true&vCenter=true&lines=TØXIC-𝐓𝐄𝐂𝐇" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙒𝙀+𝘼𝙍𝙀+PIRATES🏴‍☠️🥷🗽🧑‍💻🏂🐼🏄⛷️🌊;+𝙒𝙀+𝘿𝙊+𝐍𝐎𝙏+EXIST;YOU+ARE+PIRATES+;𝙒𝙀+ARE+COMMUNITY+BIG VILLA)](https://git.io/typing-svg)
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/Hubdarkweb"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Hubdarkweb&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
@@ -83,9 +82,9 @@ wget https://raw.githubusercontent.com/savagetech56/toxicscript/main/update.sh &
 
 ### TELEGRAM
 <p align="center"><b>
-<a href="https://t.me/xenonlo" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
+<a href="https://t.me/ToxicSavage" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
 
 ### WHATSAPP 
 <p align="center"><b>
-  <a href="https://wa.me/+254705470210" target=â€_blankâ€><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
+  <a href="https://wa.me/+254716637803" target=â€_blankâ€><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
 
