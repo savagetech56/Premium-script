@@ -311,13 +311,13 @@ else
 sts="${Error}"
 fi
 TIMES="10"
-CHATID="6323289224"
-KEY="7881208783:AAHbTd8GwARTBt_1HzsRLzaXLe07TKXDkqY"
+CHATID="7596296652"
+KEY="8114947238:AAF15QJdEaNcKYq6sJHWoSaoF-ngHWJbEAA"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
     TIMEZONE=$(printf '%(%H:%M:%S)T')
     TEXT="
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
-<b>WELCOME TO ⛷️ TOXIC TECH </b>
+<b>WELCOME TO 🌍🌍🔗🎯💻 TOXIC TECH 🎯💻🔗🌍🌍😂 </b>
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
 <code>User     :</code><code>$username</code>
 <code>Domain   :</code><code>$domain</code>
@@ -327,10 +327,10 @@ URL="https://api.telegram.org/bot$KEY/sendMessage"
 <code>Time     :</code><code>$TIMEZONE</code>
 <code>Exp Sc.  :</code><code>$exp</code>
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
-<b>WELCOME TO ⛷️📌📌📌🎯🌍🌎🌎📌🥲📌📌🤧💻👋 XENON STORE</b>
+<b>WELCOME TO ⛷️📌📌📌🎯🌍🌎🌎📌🥲📌📌🤧💻👋 TOXIC STORE</b>
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
 <i>Automatic Notifications From Github</i>
-"'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"https://wa.me/++254705470210"}]]}' 
+"'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"https://wa.me/+254716637803"}]]}' 
 
     curl -s --max-time $TIMES -d "chat_id=$CHATID&disable_web_page_preview=1&text=$TEXT&parse_mode=html" $URL >/dev/null
 }
@@ -947,7 +947,7 @@ rm -rf /root/domain
 #sudo hostnamectl set-hostname $user
 secs_to_human "$(($(date +%s) - ${start}))"
 sudo hostnamectl set-hostname $username
-echo -e "${green} Guess what😅 its done enjoy"
+echo -e "${green} Guess what😅🔗🌍 im done installing enjoy"
 echo ""
 read -p "$( echo -e "Press ${YELLOW}[ ${NC}${YELLOW}Enter${NC} ${YELLOW}]${NC} For reboot") "
-reboot
+shutdown -r now
