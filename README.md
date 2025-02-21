@@ -30,7 +30,7 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 
 ### UPDATED SCRIPT
 ```
-wget https://raw.githubusercontent.com/savagetech56/toxicscript/main/update.sh && chmod +x update.sh && ./update.sh
+wget -q https://raw.githubusercontent.com/savagetech56/toxicscript/main/update.sh && chmod +x update.sh && ./update.sh
 
 ```
 ### TESTED ON OS 
