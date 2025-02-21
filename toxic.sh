@@ -29,8 +29,8 @@ clear;clear;clear
 
   # // Banner
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
-echo -e "  Script : ${RED} 𝐖𝐄𝐋𝐂𝐎𝐌𝐄  ${NC}"
-echo -e "  Author : ${RED} Toxic ${NC}${YELLOW}${NC}"
+echo -e "  Script : ${RED} 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 TO TOXIC TECH 🔥🌍😂😂😂😂😂😂😂😂 ${NC}"
+echo -e "  Author : ${RED} 🔥🔥🔥📌🥲🌎🎮🔗 Toxic 🎮🔗🧢💤💻🎯🎮🌎🥲 ${NC}${YELLOW}${NC}"
 echo -e "  VERSION: 5.0 ©2025 ${NC}"
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
 echo ""
