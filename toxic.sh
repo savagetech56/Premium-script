@@ -31,7 +31,7 @@ clear;clear;clear
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
 echo -e "  Script : ${RED} 𝐖𝐄𝐋𝐂𝐎𝐌𝐄  ${NC}"
 echo -e "  Author : ${RED} Toxic ${NC}${YELLOW}${NC}"
-echo -e "  ©2025 ${NC}"
+echo -e "  VERSION: 5.0 ©2025 ${NC}"
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
 echo ""
 sleep 2
