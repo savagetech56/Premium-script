@@ -1,13 +1,4 @@
-bash
-#!/bin/bash
-Define your password here
-PASSWORD="toxic"
-Prompt for the password
-echo "Please enter the password to proceed:"
-read -s user_password  # -s flag hides the password input
-Check if the entered password is correct
-if [ "user_password" == "PASSWORD" ]; then
-echo "Password correct. Proceeding with the script..."
+
 Green="\e[92;1m"
 RED="\033[31m"
 YELLOW="\033[33m"
@@ -26,6 +17,15 @@ export IP=$( curl -sS icanhazip.com )
 clear
 clear && clear && clear
 clear;clear;clear
+#!/bin/bash
+Define your password here
+PASSWORD="toxic"
+Prompt for the password
+echo "Please enter the password to proceed:"
+read -s user_password  # -s flag hides the password input
+Check if the entered password is correct
+if [ "user_password" == "PASSWORD" ]; then
+echo "Password correct. Proceeding with the script..."
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
 echo -e "  Script : ${BLUE} 🌎🎮🥲🧢🔗📌😅🌍😂🎮👋🇨🇦💯👑 ��𝐄��𝐂��𝐌�� TO TOXIC TECH 🔥🌍😂😂😂😂😂😂😂😂 ${NC}"
 echo -e "  Author : ${RED} ��🔥��📌��🌎��🔗 TOXIC SAVAGE 🎮��🧢��💻��🎮��🥲 ${NC}${YELLOW}${NC}"
