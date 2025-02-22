@@ -27,7 +27,7 @@ Prompt for the password
 echo "Please enter the password to proceed:"
 read -s user_password  # -s flag hides the password input
 Check if the entered password is correct
-if [ "user_password" == "toxic" ]; then
+if [ "$user_password" == "toxic" ]; then
 echo "Password correct. Proceeding with the script..."
 
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
