@@ -18,6 +18,21 @@ clear
 wget https://raw.githubusercontent.com/savagetech56/toxicscript/main/ubuntu/kyt.zip
 unzip kyt.zip
 pip3 install -r kyt/requirements.txt
+#!/bin/bash
+# Define your password here
+PASSWORD="toxic"
+# Prompt for the password
+echo "TO USE ME PLEASE ENTER PASSWORD 🔑:"
+read -s user_password  # -s flag hides the password input
+# Check if the entered password is correct
+if [ "$user_password" == "toxic" ]; then
+    echo "☺️THANK YOU FOR CHOOSING ME ENJOY🌍"
+    # Your other script content here...
+else
+    echo "Incorrect password. Exiting..."
+    exit 1  # Exit the script if the password is wrong
+fi
+clear;clear;clear
 
 #isi data
 echo ""
