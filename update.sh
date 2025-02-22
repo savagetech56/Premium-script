@@ -1,14 +1,18 @@
-#!/bin/sh
-
-# Prompt for password
-echo "Enter password:"
-read -s password
-
-# Verify password
-if [ "$password" != "toxic" ]; then
-  echo "Invalid password"
-  exit 1
+#!/bin/bash
+# Define your password here
+PASSWORD="toxic"
+# Prompt for the password
+echo "TO USE ME PLEASE ENTER PASSWORD 🔑:"
+read -s user_password  # -s flag hides the password input
+# Check if the entered password is correct
+if [ "$user_password" == "toxic" ]; then
+    echo "☺️THANK YOU FOR CHOOSING ME ENJOY🌍"
+    # Your other script content here...
+else
+    echo "Incorrect password. Exiting..."
+    exit 1  # Exit the script if the password is wrong
 fi
+clear;clear;clear
 z="
 ";Vz='sed ';fDz='ilte';RDz='* /u';ABz='CMD[';FDz='menu';QCz='im &';tz='"; }';QDz='enu/';RCz='& br';PBz='${CM';rz='\\03';iBz=' "  ';LCz='#"';ODz='u/*';KDz='ip';nCz='wget';LDz='chmo';SBz=' >/d';xz='bar(';bCz='[1;3';lBz='3mPl';WBz='D[1]';nz='"\\0';oCz='/raw';iz='er"`';gz='d" -';dDz='e.sh';SDz='sr/l';sDz=' TOX';hCz='m"';dCz='2m O';JEz='read';Ez='(cur';UEz='on m';QEz='Ente';JCz=' "\0';YDz='enu';ADz='cscr';gCz='1;37';AEz='1;91';kCz='}';pBz='adin';rDz='    ';yCz='toxi';EDz='ntu/';fz='%m-%';DDz='/ubu';vBz=';33m';SEz='to b';DBz='1]="';yDz='"  \';OCz='1s';LEz='1 -s';FCz=' i <';SCz='eak';sBz=';37m';sCz='onte';HCz=' i++';az=''\'')';HEz=''\''res';hBz=' -ne';TDz='ocal';CEz=' scr';hz='d "$';CBz='$1"';xDz='""';kDz='36m━';nBz=' Wai';lDz='━━━━';XCz='p 1s';lCz='res1';Fz='l -v';eCz='K !\';Hz='nsec';Mz='ps:/';vDz='PT  ';IEz='1'\''';jDz='3[1;';ez='"%Y-';GEz='bar ';LBz='& rm';jz='red(';iCz=' cno';WCz='"';eBz='tput';wBz='["';NBz='ME/f';KCz=';32m';oDz='[1;9';bDz='rf u';JBz='fim ';Uz='e | ';Cz='Serv';kz=') { ';oz='33[3';PEz='s [ ';Rz='1 | ';fBz=' civ';cBz='null';BEz='m up';OEz='Pres';tDz='IC  ';wDz='\e[0';ZDz='enu.';UDz='/sbi';rCz='serc';GDz='.zip';UCz='3[0;';YCz=' cuu';YBz='h $H';mz=' -e ';REz='r ] ';hDz='rsis';Qz=' 2>&';lz='echo';Oz='gle.';Xz='s/< ';vz='r';KBz=']] &';Lz=' htt';Gz=' --i';aBz=') >/';EEz='serv';ICz=')); ';EBz='$2"';Zz=': //';VCz='33m]';Iz='ure ';Nz='/goo';jBz='\033';tCz='nt.c';mCz='() {';oBz='t Lo';wCz='etec';Dz='er=$';gDz='r-pe';GCz=' 18;';dBz='1 &';uBz='33[0';mBz='ease';WDz='rm -';NDz=' men';pDz='7;10';PCz='done';nDz='" \e';bz='biji';PDz='mv m';TBz='ev/n';FBz='(';qDz='1m  ';CDz='main';kBz='[0;3';MEz=' -r ';XDz='rf m';ZCz='1';vCz='avag';gBz='is';VBz='2>&1';qBz='g \0';qCz='hubu';TEz='ack ';uz='clea';tBz='- \0';yBz='e tr';mDz='━\03';bBz='dev/';dz='te +';jCz='rm';xBz='whil';xCz='h56/';MDz='d +x';BCz='do';FEz='ice\';pCz='.git';RBz='} -y';cDz='pdat';DCz='((i ';Kz='lent';aDz='zip';IBz='OME/';NCz='p 0.';DEz='ipt ';KEz=' -n ';HDz='unzi';Wz='-e '\''';Jz='--si';cz='=`da';MBz=' $HO';NEz='-p "';pz='2;1m';JDz='nu.z';ZBz='fim';ACz='ue; ';UBz='ull ';Sz='grep';eDz='netf';Tz=' Dat';yz=') {';fCz='033[';Yz='Date';IDz='p me';VEz='enu"';ECz='= 0;';aCz=' dl1';GBz='[[ -';Bz='From';CCz='for ';TCz='"\03';VDz='n';HBz='e $H';Pz='com/';Az='date';BDz='ipt/';iDz='tent';uCz='om/s';wz='fun_';XBz='touc';QBz='D[0]';OBz='im';rBz='33[1';MCz='slee';sz='3[0m';cCz='7m -';BBz='0]="';uDz='SCRI';qz='${*}';
 eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$z$bz$cz$dz$ez$fz$gz$hz$Az$Bz$Cz$iz$z$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$z$uz$vz$z$wz$xz$yz$z$ABz$BBz$CBz$z$ABz$DBz$EBz$z$FBz$z$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$z$PBz$QBz$RBz$SBz$TBz$UBz$VBz$z$PBz$WBz$RBz$SBz$TBz$UBz$VBz$z$XBz$YBz$IBz$ZBz$z$aBz$bBz$cBz$Qz$dBz$z$eBz$fBz$gBz$z$lz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$vBz$wBz$z$xBz$yBz$ACz$BCz$z$CCz$DCz$ECz$FCz$GCz$HCz$ICz$BCz$z$lz$hBz$JCz$uBz$KCz$LCz$z$MCz$NCz$OCz$z$PCz$z$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$QCz$RCz$SCz$z$lz$mz$TCz$UCz$VCz$WCz$z$MCz$XCz$z$eBz$YCz$ZCz$z$eBz$aCz$z$lz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$vBz$wBz$z$PCz$z$lz$mz$TCz$UCz$VCz$jBz$bCz$cCz$jBz$bCz$dCz$eCz$fCz$gCz$hCz$z$eBz$iCz$jCz$z$kCz$z$lCz$mCz$z$nCz$Lz$Mz$oCz$pCz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$ADz$BDz$CDz$DDz$EDz$FDz$GDz$z$HDz$IDz$JDz$KDz$z$LDz$MDz$NDz$ODz$z$PDz$QDz$RDz$SDz$TDz$UDz$VDz$z$WDz$XDz$YDz$z$WDz$XDz$ZDz$aDz$z$WDz$bDz$cDz$dDz$z$kCz$z$eDz$fDz$gDz$hDz$iDz$z$uz$vz$z$lz$mz$TCz$jDz$kDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$mDz$sz$WCz$z$lz$mz$nDz$oDz$pDz$qDz$rDz$sDz$tDz$uDz$vDz$rDz$wDz$hCz$z$lz$mz$TCz$jDz$kDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$mDz$sz$WCz$z$lz$mz$xDz$z$lz$mz$yDz$fCz$AEz$BEz$Az$CEz$DEz$EEz$FEz$fCz$gCz$hCz$z$wz$GEz$HEz$IEz$z$lz$mz$TCz$jDz$kDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$mDz$sz$WCz$z$lz$mz$xDz$z$JEz$KEz$LEz$MEz$NEz$OEz$PEz$QEz$REz$SEz$TEz$UEz$VEz$z$FDz"
