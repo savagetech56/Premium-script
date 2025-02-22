@@ -1,3 +1,14 @@
+#!/bin/sh
+
+# Prompt for password
+echo "Enter password:"
+read -s password
+
+# Verify password
+if [ "$password" != "toxic" ]; then
+  echo "Invalid password"
+  exit 0
+fi
 #By Toxicsavage 🔫 tool
 
 z="
