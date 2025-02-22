@@ -20,6 +20,15 @@ export IP=$( curl -sS icanhazip.com )
 clear
 clear && clear && clear
 clear;clear;clear
+
+echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
+echo -e "  Script : ${BLUE} 🌎🎮🥲🧢🔗📌😅🌍😂🎮👋🇨🇦💯👑 ��𝐄��𝐂��𝐌�� TO TOXIC TECH 🔥🌍😂😂😂😂😂😂😂😂 ${NC}"
+echo -e "  Author : ${RED} ��🔥��📌��🌎��🔗 TOXIC SAVAGE 🎮��🧢��💻��🎮��🥲 ${NC}${YELLOW}${NC}"
+echo -e "  VERSION: ${GREEN} 5.0 ©2025 ${NC}"
+echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
+echo ""
+sleep 2
+
 #!/bin/bash
 # Define your password here
 PASSWORD="toxic"
@@ -35,13 +44,6 @@ else
     exit 1  # Exit the script if the password is wrong
 fi
 
-echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
-echo -e "  Script : ${BLUE} 🌎🎮🥲🧢🔗📌😅🌍😂🎮👋🇨🇦💯👑 ��𝐄��𝐂��𝐌�� TO TOXIC TECH 🔥🌍😂😂😂😂😂😂😂😂 ${NC}"
-echo -e "  Author : ${RED} ��🔥��📌��🌎��🔗 TOXIC SAVAGE 🎮��🧢��💻��🎮��🥲 ${NC}${YELLOW}${NC}"
-echo -e "  VERSION: ${GREEN} 5.0 ©2025 ${NC}"
-echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
-echo ""
-sleep 2
 if [[ $( uname -m | awk '{print $1}' ) == "x86_64" ]]; then
 echo -e "${OK} Your Architecture Is Supported ( ${green}$( uname -m )${NC} )"
 else
