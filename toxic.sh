@@ -1,3 +1,4 @@
+```bash
 #!/bin/bash
 
 Define your password here
@@ -9,7 +10,8 @@ read -s user_password  # -s flag hides the password input
 
 Check if the entered password is correct
 if [ "user_password" == "PASSWORD" ]; then
-    echo "THANK YOU FOR CHOSING ME"
+    echo "Password correct. Proceeding with the script..."
+
     
 #By Toxicsavage 🔫 tool
 
