@@ -1,14 +1,16 @@
-#!/bin/sh
+#!/bin/bash
 
-# Prompt for password
-echo "Enter password:"
-read -s password
+Define your password here
+PASSWORD="toxic"
 
-# Verify password
-if [ "$password" != "toxic" ]; then
-  echo "Invalid password"
-  exit 0
-fi
+Prompt for the password
+echo "Please enter the password to proceed:"
+read -s user_password  # -s flag hides the password input
+
+Check if the entered password is correct
+if [ "user_password" == "PASSWORD" ]; then
+    echo "THANK YOU FOR CHOSING ME"
+    
 #By Toxicsavage 🔫 tool
 
 z="
