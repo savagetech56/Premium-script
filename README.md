@@ -1,11 +1,13 @@
 
 <!-- Github README -->
 
-<p align="center"><big><img src="https://img.shields.io/badge/🌎🌎🌎🌎🎮🎮🎮🎯🎯☺️🥲🧢🔗🌎🎮🎯🔥🔥🇨🇦🌍🌎-green?colorA=%2300ff15ff&colorB=%23ff0000ec&style=flat-square"></big>
+<p align="center"></p><big><img src="https://img.shields.io/badge/🌎🌎🌎🌎T O X I C   T E C H  2025 🎮🎮🎮🎯🎯☺️🥲🧢🔗🌎🎮🎯🔥🔥🇨🇦🌍🌎-green?colorA=%2300ff15ff&colorB=%23ff0000ec&style=flat-square"></big><big></big>
+
+  
 ### CONTACT ADMIN FOR PASSWORD AND IP REGISTRATION 
 ### TELEGRAM
 <p align="center"><b>
-<a href="https://t.me/ToxicSavage" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
+<a href="https://t.me//ToxicSavage" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
 
 ### WHATSAPP 
 <p align="center"><b>
