@@ -2,6 +2,14 @@
 <!-- Github README -->
 
 <p align="center"><big><img src="https://img.shields.io/badge/🌎🌎🌎🌎🎮🎮🎮🎯🎯☺️🥲🧢🔗🌎🎮🎯🔥🔥🇨🇦🌍🌎-green?colorA=%2300ff15ff&colorB=%23ff0000ec&style=flat-square"></big>
+### TELEGRAM
+<p align="center"><b>
+<a href="https://t.me/ToxicSavage" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
+
+### WHATSAPP 
+<p align="center"><b>
+  <a href="https://wa.me/+254716637803" target=â€_blankâ€><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
+
 
 
   &nbsp; Welocum 😌 to Toxic tech &nbsp;
@@ -79,12 +87,3 @@ wget -q https://raw.githubusercontent.com/savagetech56/toxicscript/main/update.s
 - Always Use HTTPS : OFF
 - UNDER ATTACK MODE : OFF
 ```
-
-### TELEGRAM
-<p align="center"><b>
-<a href="https://t.me/ToxicSavage" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
-
-### WHATSAPP 
-<p align="center"><b>
-  <a href="https://wa.me/+254716637803" target=â€_blankâ€><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
-
