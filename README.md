@@ -1,28 +1,11 @@
-
 <!-- Github README -->
-
-<p align="center"></p><big><img src="https://img.shields.io/badge/🌎🌎🌎🌎T O X I C   T E C H  2025 🎮🎮🎮🎯🎯☺️🥲🧢🔗🌎🎮🎯🔥🔥🇨🇦🌍🌎-green?colorA=%2300ff15ff&colorB=%23ff0000ec&style=flat-square"></big><big></big>
-
-  
-### CONTACT ADMIN FOR PASSWORD AND IP REGISTRATION 
-### TELEGRAM
-<p align="center"><b>
-<a href="https://t.me//ToxicSavage" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
-
-### WHATSAPP 
-<p align="center"><b>
-  <a href="https://wa.me/+254716637803" target=â€_blankâ€><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
-
-
-
-  &nbsp; Welocum 😌 to Toxic tech &nbsp;
-  <img src="https://raw.githubusercontent.com/savagetech56/toxicscript/main/toxic.jpg" width="35"> 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=+W+E+L+C+O+M+E" />
+</p>
+</p>
+<img src="https://readme-typing-svg.herokuapp.com?color=%234d8c33ff&center=true&vCenter=true&lines=TO-TØXIC-𝐓𝐄𝐂𝐇" />
 </h3>
 <img align="center" alt="line" src="https://raw.githubusercontent.com/savagetech56/toxicscript/main/toxic.jpg">
-
-</p>
-<img src="https://readme-typing-svg.herokuapp.com?color=%234d8c33ff&center=true&vCenter=true&lines=TØXIC-𝐓𝐄𝐂𝐇" />
-
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/Hubdarkweb"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Hubdarkweb&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
@@ -30,7 +13,7 @@
 </p>
 <p align="center"> 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
- <img src="https://profile-counter.glitch.me/Hubdarkweb/count.svg" alt="Visitors">
+ <img src="https://profile-counter.glitch.me/savagetech56/count.svg" alt="Visitors">
 </p>
 
 ### INSTALL SCRIPT 
@@ -90,3 +73,13 @@ wget -q https://raw.githubusercontent.com/savagetech56/toxicscript/main/update.s
 - Always Use HTTPS : OFF
 - UNDER ATTACK MODE : OFF
 ```
+### CONTACT ADMIN FOR PASSWORD AND IP REGISTRATION 
+
+### TELEGRAM
+<p align="center"><b>
+<a href="https://t.me//ToxicSavage" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
+
+### WHATSAPP 
+<p align="center"><b>
+  <a href="https://wa.me/+254716637803" target=â€_blankâ€><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
+  
