@@ -16,6 +16,11 @@
  <img src="https://profile-counter.glitch.me/savagetech56/count.svg" alt="Visitors">
 </p>
 
+### UPDATE YOUR SERVER FIRST
+```
+apt update && apt upgrade -y && update-grub && sleep 2 && reboot
+```
+
 ### INSTALL SCRIPT 
 ```
 apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/savagetech56/toxicscript/main/toxic.sh && chmod +x toxic.sh && ./toxic.sh
